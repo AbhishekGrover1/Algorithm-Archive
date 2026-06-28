@@ -35,6 +35,7 @@ My Leetcode solutions and problem-solving journey
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbhishekGrover1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AbhishekGrover1/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/AbhishekGrover1/Leetcode/tree/master/0008-string-to-integer-atoi) |
 ## Dynamic Programming
 |  |
 | ------- |
