@@ -37,6 +37,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0015-3sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbhishekGrover1/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AbhishekGrover1/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbhishekGrover1/Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AbhishekGrover1/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Sliding Window
 |  |
 | ------- |
