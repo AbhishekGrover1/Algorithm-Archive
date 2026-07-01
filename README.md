@@ -26,6 +26,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0041-first-missing-positive](https://github.com/AbhishekGrover1/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AbhishekGrover1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/AbhishekGrover1/Leetcode/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0037-sudoku-solver](https://github.com/AbhishekGrover1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/AbhishekGrover1/Leetcode/tree/master/0046-permutations) |
 ## Linked List
 |  |
 | ------- |
