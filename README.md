@@ -32,6 +32,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0049-group-anagrams](https://github.com/AbhishekGrover1/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AbhishekGrover1/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0011-container-with-most-water](https://github.com/AbhishekGrover1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/AbhishekGrover1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0055-jump-game) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0042-trapping-rain-water](https://github.com/AbhishekGrover1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/AbhishekGrover1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
