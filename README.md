@@ -36,6 +36,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0056-merge-intervals](https://github.com/AbhishekGrover1/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AbhishekGrover1/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/AbhishekGrover1/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0043-multiply-strings](https://github.com/AbhishekGrover1/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AbhishekGrover1/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AbhishekGrover1/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/AbhishekGrover1/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
