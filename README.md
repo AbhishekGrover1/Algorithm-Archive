@@ -41,6 +41,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0066-plus-one](https://github.com/AbhishekGrover1/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekGrover1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/AbhishekGrover1/Leetcode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0031-next-permutation](https://github.com/AbhishekGrover1/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AbhishekGrover1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AbhishekGrover1/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/AbhishekGrover1/Leetcode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0047-permutations-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AbhishekGrover1/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AbhishekGrover1/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AbhishekGrover1/Leetcode/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |
