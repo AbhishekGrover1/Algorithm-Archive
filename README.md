@@ -44,6 +44,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0074-search-a-2d-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AbhishekGrover1/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AbhishekGrover1/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AbhishekGrover1/Leetcode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0067-add-binary](https://github.com/AbhishekGrover1/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/AbhishekGrover1/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/AbhishekGrover1/Leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/AbhishekGrover1/Leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0052-n-queens-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/AbhishekGrover1/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AbhishekGrover1/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AbhishekGrover1/Leetcode/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0064-minimum-path-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekGrover1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AbhishekGrover1/Leetcode/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -265,4 +269,8 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AbhishekGrover1/Leetcode/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AbhishekGrover1/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
