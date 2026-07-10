@@ -310,18 +310,21 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0079-word-search](https://github.com/AbhishekGrover1/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0101-symmetric-tree) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -330,4 +333,5 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
