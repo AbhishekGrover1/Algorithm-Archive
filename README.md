@@ -279,6 +279,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0084-largest-rectangle-in-histogram](https://github.com/AbhishekGrover1/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0113-path-sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhishekGrover1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0113-path-sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhishekGrover1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -397,6 +400,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0113-path-sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhishekGrover1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
