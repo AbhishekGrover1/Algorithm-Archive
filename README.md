@@ -1,7 +1,7 @@
 # Algorithm-Archive
 An evolving collection of DSA patterns and algorithmic solutions!!
 <!---LeetCode Topics Start-->
-# Topics
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -279,6 +279,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0085-maximal-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -352,6 +353,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhishekGrover1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -376,6 +378,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhishekGrover1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -400,6 +403,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhishekGrover1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
