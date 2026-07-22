@@ -156,6 +156,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0097-interleaving-string](https://github.com/AbhishekGrover1/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AbhishekGrover1/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AbhishekGrover1/Leetcode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/AbhishekGrover1/Leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +202,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0070-climbing-stairs](https://github.com/AbhishekGrover1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/AbhishekGrover1/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/AbhishekGrover1/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0168-excel-sheet-column-title](https://github.com/AbhishekGrover1/Leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Recursion
 |  |
 | ------- |
