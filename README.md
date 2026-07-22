@@ -74,6 +74,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AbhishekGrover1/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0088-merge-sorted-array](https://github.com/AbhishekGrover1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AbhishekGrover1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AbhishekGrover1/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Greedy
 |  |
 | ------- |
@@ -263,6 +265,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhishekGrover1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AbhishekGrover1/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sliding Window
 |  |
 | ------- |
