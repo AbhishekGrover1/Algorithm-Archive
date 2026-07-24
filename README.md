@@ -222,6 +222,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0044-wildcard-matching](https://github.com/AbhishekGrover1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/AbhishekGrover1/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/AbhishekGrover1/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Trie
 |  |
 | ------- |
@@ -277,6 +278,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhishekGrover1/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/AbhishekGrover1/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Sliding Window
 |  |
 | ------- |
