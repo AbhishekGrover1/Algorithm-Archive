@@ -59,6 +59,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0136-single-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AbhishekGrover1/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhishekGrover1/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0202-happy-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AbhishekGrover1/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AbhishekGrover1/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -291,6 +293,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekGrover1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AbhishekGrover1/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0219-contains-duplicate-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Stack
 |  |
 | ------- |
