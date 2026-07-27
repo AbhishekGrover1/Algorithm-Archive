@@ -169,6 +169,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0168-excel-sheet-column-title](https://github.com/AbhishekGrover1/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AbhishekGrover1/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +218,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0168-excel-sheet-column-title](https://github.com/AbhishekGrover1/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -307,6 +309,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AbhishekGrover1/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
