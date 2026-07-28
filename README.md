@@ -219,6 +219,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0171-excel-sheet-column-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/AbhishekGrover1/Leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
@@ -232,6 +233,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0060-permutation-sequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/AbhishekGrover1/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AbhishekGrover1/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AbhishekGrover1/Leetcode/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
@@ -331,6 +333,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0089-gray-code](https://github.com/AbhishekGrover1/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AbhishekGrover1/Leetcode/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
