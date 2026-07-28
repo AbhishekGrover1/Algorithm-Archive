@@ -312,6 +312,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AbhishekGrover1/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/AbhishekGrover1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -470,8 +471,10 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbhishekGrover1/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/AbhishekGrover1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbhishekGrover1/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/AbhishekGrover1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
