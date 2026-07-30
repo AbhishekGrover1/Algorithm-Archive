@@ -221,6 +221,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0202-happy-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/AbhishekGrover1/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -365,6 +366,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0059-spiral-matrix-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AbhishekGrover1/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/AbhishekGrover1/Leetcode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -482,4 +484,8 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbhishekGrover1/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbhishekGrover1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
