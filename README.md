@@ -93,6 +93,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0069-sqrtx](https://github.com/AbhishekGrover1/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/AbhishekGrover1/Leetcode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -488,4 +489,8 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AbhishekGrover1/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
