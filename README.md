@@ -60,6 +60,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0169-majority-element](https://github.com/AbhishekGrover1/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhishekGrover1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/AbhishekGrover1/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0141-linked-list-cycle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhishekGrover1/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/AbhishekGrover1/Leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
