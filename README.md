@@ -3,7 +3,7 @@
 </div>
 
 <!---LeetCode Topics Start-->
-
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -63,6 +63,7 @@
 | [0217-contains-duplicate](https://github.com/AbhishekGrover1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AbhishekGrover1/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -485,6 +486,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbhishekGrover1/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbhishekGrover1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -498,4 +500,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AbhishekGrover1/Leetcode/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
