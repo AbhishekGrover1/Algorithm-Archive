@@ -202,6 +202,7 @@
 | [0118-pascals-triangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhishekGrover1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
@@ -347,6 +348,7 @@
 | [0090-subsets-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AbhishekGrover1/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
 | ------- |
