@@ -231,6 +231,7 @@
 | [0258-add-digits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/AbhishekGrover1/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [0206-reverse-linked-list](https://github.com/AbhishekGrover1/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AbhishekGrover1/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AbhishekGrover1/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
 ## Trie
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 | [0136-single-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AbhishekGrover1/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
