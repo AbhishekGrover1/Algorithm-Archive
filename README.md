@@ -108,6 +108,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/AbhishekGrover1/Leetcode/tree/master/0169-majority-element) |
+| [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
 ## Two Pointers
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [0263-ugly-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/AbhishekGrover1/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
+| [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
 ## Recursion
 |  |
 | ------- |
@@ -515,4 +517,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
