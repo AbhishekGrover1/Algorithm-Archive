@@ -288,6 +288,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AbhishekGrover1/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/AbhishekGrover1/Leetcode/tree/master/0401-binary-watch) |
 ## Linked List
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 | [0231-power-of-two](https://github.com/AbhishekGrover1/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/AbhishekGrover1/Leetcode/tree/master/0401-binary-watch) |
 ## Matrix
 |  |
 | ------- |
