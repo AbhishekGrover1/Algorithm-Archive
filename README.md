@@ -204,6 +204,7 @@
 | [0119-pascals-triangle-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhishekGrover1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0338-counting-bits) |
+| [0464-can-i-win](https://github.com/AbhishekGrover1/Leetcode/tree/master/0464-can-i-win) |
 ## Math
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [0326-power-of-three](https://github.com/AbhishekGrover1/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
+| [0464-can-i-win](https://github.com/AbhishekGrover1/Leetcode/tree/master/0464-can-i-win) |
 ## Recursion
 |  |
 | ------- |
@@ -356,6 +358,7 @@
 | [0338-counting-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/AbhishekGrover1/Leetcode/tree/master/0401-binary-watch) |
+| [0464-can-i-win](https://github.com/AbhishekGrover1/Leetcode/tree/master/0464-can-i-win) |
 ## Matrix
 |  |
 | ------- |
@@ -389,6 +392,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AbhishekGrover1/Leetcode/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/AbhishekGrover1/Leetcode/tree/master/0464-can-i-win) |
 ## Combinatorics
 |  |
 | ------- |
@@ -527,4 +531,12 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/AbhishekGrover1/Leetcode/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/AbhishekGrover1/Leetcode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
