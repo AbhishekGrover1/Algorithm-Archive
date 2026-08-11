@@ -232,6 +232,7 @@
 | [0231-power-of-two](https://github.com/AbhishekGrover1/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AbhishekGrover1/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
@@ -534,6 +535,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/AbhishekGrover1/Leetcode/tree/master/0464-can-i-win) |
 ## Bitmask
 |  |
@@ -543,4 +545,20 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/AbhishekGrover1/Leetcode/tree/master/0197-rising-temperature) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
