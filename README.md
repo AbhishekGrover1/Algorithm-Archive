@@ -87,6 +87,7 @@
 | [0205-isomorphic-strings](https://github.com/AbhishekGrover1/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AbhishekGrover1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/AbhishekGrover1/Leetcode/tree/master/0290-word-pattern) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [0205-isomorphic-strings](https://github.com/AbhishekGrover1/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/AbhishekGrover1/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/AbhishekGrover1/Leetcode/tree/master/0290-word-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
