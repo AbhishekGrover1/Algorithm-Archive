@@ -205,6 +205,7 @@
 | [0118-pascals-triangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhishekGrover1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/AbhishekGrover1/Leetcode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/AbhishekGrover1/Leetcode/tree/master/0464-can-i-win) |
 ## Math
@@ -234,6 +235,7 @@
 | [0231-power-of-two](https://github.com/AbhishekGrover1/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/AbhishekGrover1/Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AbhishekGrover1/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
@@ -499,6 +501,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhishekGrover1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/AbhishekGrover1/Leetcode/tree/master/0279-perfect-squares) |
 ## Counting
 |  |
 | ------- |
@@ -563,4 +566,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0292-nim-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/AbhishekGrover1/Leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/AbhishekGrover1/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
