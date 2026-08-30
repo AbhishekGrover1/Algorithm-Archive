@@ -3,7 +3,7 @@
 </div>
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics  
+# LeetCode Topics
 ## Array 
 |  |
 | ------- |
@@ -109,6 +109,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/AbhishekGrover1/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0190-reverse-bits) |
 | [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
 ## Two Pointers
 |  |
@@ -362,6 +363,7 @@
 | [0089-gray-code](https://github.com/AbhishekGrover1/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/AbhishekGrover1/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
