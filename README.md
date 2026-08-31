@@ -60,6 +60,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhishekGrover1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AbhishekGrover1/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/AbhishekGrover1/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AbhishekGrover1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AbhishekGrover1/Leetcode/tree/master/0283-move-zeroes) |
@@ -385,6 +386,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AbhishekGrover1/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/AbhishekGrover1/Leetcode/tree/master/0200-number-of-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -427,6 +429,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/AbhishekGrover1/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbhishekGrover1/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -507,6 +510,7 @@
 | [0112-path-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhishekGrover1/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/AbhishekGrover1/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/AbhishekGrover1/Leetcode/tree/master/0279-perfect-squares) |
 ## Counting
@@ -586,4 +590,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AbhishekGrover1/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AbhishekGrover1/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
