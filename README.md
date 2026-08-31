@@ -65,6 +65,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AbhishekGrover1/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0217-contains-duplicate](https://github.com/AbhishekGrover1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/AbhishekGrover1/Leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/AbhishekGrover1/Leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | [0202-happy-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AbhishekGrover1/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/AbhishekGrover1/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -279,6 +283,7 @@
 | [0169-majority-element](https://github.com/AbhishekGrover1/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhishekGrover1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/AbhishekGrover1/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
