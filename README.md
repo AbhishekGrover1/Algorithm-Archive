@@ -57,6 +57,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhishekGrover1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AbhishekGrover1/Leetcode/tree/master/0169-majority-element) |
@@ -213,6 +214,7 @@
 | [0115-distinct-subsequences](https://github.com/AbhishekGrover1/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhishekGrover1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/AbhishekGrover1/Leetcode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0338-counting-bits) |
