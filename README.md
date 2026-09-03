@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=LeetCode+Solutions;Arrays+%7C+Strings+%7C+Linked+Lists;Stacks+%7C+Queues+%7C+Heaps;Trees+%7C+Graphs+%7C+Trie;Sliding+Window+%7C+Two+Pointers;Binary+Search+%7C+Greedy;Dynamic+Programming+%7C+Backtracking" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=LeetCode+Solutions;Arrays+%7C+Strings+%7C+Linked+Lists;Stacks+%7C+Queues+%7C+Heaps;Trees+%7C+Graphs+%7C+Trie;Sliding+Window+%7C+Two+Pointers;Binary+Search+%7C+Greedy;Dynamic+Programming+%7C+Backtracking" alt="Typing animation" />
 </div>
 
 <!---LeetCode Topics Start-->
