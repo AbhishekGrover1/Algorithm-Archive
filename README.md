@@ -69,6 +69,7 @@
 | [0303-range-sum-query-immutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0454-4sum-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/AbhishekGrover1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/AbhishekGrover1/Leetcode/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -339,6 +340,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekGrover1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AbhishekGrover1/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/AbhishekGrover1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
 | ------- |
