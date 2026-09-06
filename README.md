@@ -96,6 +96,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/AbhishekGrover1/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/AbhishekGrover1/Leetcode/tree/master/0383-ransom-note) |
 | [0454-4sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0454-4sum-ii) |
 ## Binary Search
 |  |
@@ -194,6 +195,7 @@
 | [0227-basic-calculator-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/AbhishekGrover1/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/AbhishekGrover1/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/AbhishekGrover1/Leetcode/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -537,6 +539,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbhishekGrover1/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/AbhishekGrover1/Leetcode/tree/master/0383-ransom-note) |
 ## Design
 |  |
 | ------- |
