@@ -68,6 +68,7 @@
 | [0289-game-of-life](https://github.com/AbhishekGrover1/Leetcode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0414-third-maximum-number) |
 | [0454-4sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0454-4sum-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhishekGrover1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/AbhishekGrover1/Leetcode/tree/master/0733-flood-fill) |
@@ -293,6 +294,7 @@
 | [0217-contains-duplicate](https://github.com/AbhishekGrover1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/AbhishekGrover1/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0414-third-maximum-number) |
 ## Backtracking
 |  |
 | ------- |
