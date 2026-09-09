@@ -197,6 +197,7 @@
 | [0257-binary-tree-paths](https://github.com/AbhishekGrover1/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/AbhishekGrover1/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AbhishekGrover1/Leetcode/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/AbhishekGrover1/Leetcode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [0326-power-of-three](https://github.com/AbhishekGrover1/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
+| [0412-fizz-buzz](https://github.com/AbhishekGrover1/Leetcode/tree/master/0412-fizz-buzz) |
 | [0464-can-i-win](https://github.com/AbhishekGrover1/Leetcode/tree/master/0464-can-i-win) |
 ## Recursion
 |  |
@@ -423,6 +425,7 @@
 | [0068-text-justification](https://github.com/AbhishekGrover1/Leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/AbhishekGrover1/Leetcode/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/AbhishekGrover1/Leetcode/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
 | ------- |
