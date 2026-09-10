@@ -67,6 +67,7 @@
 | [0283-move-zeroes](https://github.com/AbhishekGrover1/Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/AbhishekGrover1/Leetcode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0335-self-crossing](https://github.com/AbhishekGrover1/Leetcode/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0414-third-maximum-number) |
 | [0454-4sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0454-4sum-ii) |
@@ -257,6 +258,7 @@
 | [0279-perfect-squares](https://github.com/AbhishekGrover1/Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AbhishekGrover1/Leetcode/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/AbhishekGrover1/Leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/AbhishekGrover1/Leetcode/tree/master/0412-fizz-buzz) |
@@ -638,4 +640,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/AbhishekGrover1/Leetcode/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
