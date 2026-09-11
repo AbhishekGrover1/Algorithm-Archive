@@ -112,6 +112,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/AbhishekGrover1/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/AbhishekGrover1/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [0326-power-of-three](https://github.com/AbhishekGrover1/Leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/AbhishekGrover1/Leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/AbhishekGrover1/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/AbhishekGrover1/Leetcode/tree/master/0412-fizz-buzz) |
 | [0464-can-i-win](https://github.com/AbhishekGrover1/Leetcode/tree/master/0464-can-i-win) |
