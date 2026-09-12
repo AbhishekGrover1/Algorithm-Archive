@@ -65,6 +65,7 @@
 | [0217-contains-duplicate](https://github.com/AbhishekGrover1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AbhishekGrover1/Leetcode/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/AbhishekGrover1/Leetcode/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/AbhishekGrover1/Leetcode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0335-self-crossing](https://github.com/AbhishekGrover1/Leetcode/tree/master/0335-self-crossing) |
@@ -558,6 +559,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbhishekGrover1/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbhishekGrover1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/AbhishekGrover1/Leetcode/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/AbhishekGrover1/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Queue
@@ -646,4 +648,8 @@
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/AbhishekGrover1/Leetcode/tree/master/0335-self-crossing) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/AbhishekGrover1/Leetcode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
