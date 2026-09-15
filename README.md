@@ -600,6 +600,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/AbhishekGrover1/Leetcode/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/AbhishekGrover1/Leetcode/tree/master/0584-find-customer-referee) |
 ## Brainteaser
 |  |
 | ------- |
