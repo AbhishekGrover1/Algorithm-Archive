@@ -72,6 +72,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0414-third-maximum-number) |
 | [0454-4sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0454-4sum-ii) |
+| [0495-teemo-attacking](https://github.com/AbhishekGrover1/Leetcode/tree/master/0495-teemo-attacking) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhishekGrover1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/AbhishekGrover1/Leetcode/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -431,6 +432,7 @@
 | [0258-add-digits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/AbhishekGrover1/Leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/AbhishekGrover1/Leetcode/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/AbhishekGrover1/Leetcode/tree/master/0495-teemo-attacking) |
 ## Memoization
 |  |
 | ------- |
