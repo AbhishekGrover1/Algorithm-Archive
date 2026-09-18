@@ -115,6 +115,7 @@
 | [0278-first-bad-version](https://github.com/AbhishekGrover1/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AbhishekGrover1/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/AbhishekGrover1/Leetcode/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -266,6 +267,7 @@
 | [0367-valid-perfect-square](https://github.com/AbhishekGrover1/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/AbhishekGrover1/Leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/AbhishekGrover1/Leetcode/tree/master/0441-arranging-coins) |
 | [0464-can-i-win](https://github.com/AbhishekGrover1/Leetcode/tree/master/0464-can-i-win) |
 ## Recursion
 |  |
