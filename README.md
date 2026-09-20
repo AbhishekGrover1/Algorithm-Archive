@@ -206,6 +206,7 @@
 | [0290-word-pattern](https://github.com/AbhishekGrover1/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AbhishekGrover1/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/AbhishekGrover1/Leetcode/tree/master/0412-fizz-buzz) |
+| [0482-license-key-formatting](https://github.com/AbhishekGrover1/Leetcode/tree/master/0482-license-key-formatting) |
 | [0819-most-common-word](https://github.com/AbhishekGrover1/Leetcode/tree/master/0819-most-common-word) |
 ## Dynamic Programming
 |  |
