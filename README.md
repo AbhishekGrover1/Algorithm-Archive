@@ -471,6 +471,7 @@
 | [0210-course-schedule-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbhishekGrover1/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/AbhishekGrover1/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/AbhishekGrover1/Leetcode/tree/master/0733-flood-fill) |
 ## Tree
@@ -501,6 +502,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbhishekGrover1/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/AbhishekGrover1/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -530,6 +532,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbhishekGrover1/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/AbhishekGrover1/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
@@ -557,6 +560,7 @@
 | [0210-course-schedule-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbhishekGrover1/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/AbhishekGrover1/Leetcode/tree/master/0279-perfect-squares) |
+| [0404-sum-of-left-leaves](https://github.com/AbhishekGrover1/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/AbhishekGrover1/Leetcode/tree/master/0733-flood-fill) |
 ## Counting
 |  |
