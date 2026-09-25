@@ -72,6 +72,7 @@
 | [0335-self-crossing](https://github.com/AbhishekGrover1/Leetcode/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhishekGrover1/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0454-4sum-ii) |
 | [0495-teemo-attacking](https://github.com/AbhishekGrover1/Leetcode/tree/master/0495-teemo-attacking) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhishekGrover1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -103,6 +104,7 @@
 | [0290-word-pattern](https://github.com/AbhishekGrover1/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/AbhishekGrover1/Leetcode/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhishekGrover1/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0454-4sum-ii) |
 | [0819-most-common-word](https://github.com/AbhishekGrover1/Leetcode/tree/master/0819-most-common-word) |
 ## Binary Search
