@@ -69,6 +69,7 @@
 | [0284-peeking-iterator](https://github.com/AbhishekGrover1/Leetcode/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/AbhishekGrover1/Leetcode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0335-self-crossing](https://github.com/AbhishekGrover1/Leetcode/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhishekGrover1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0414-third-maximum-number) |
@@ -133,6 +134,7 @@
 | [0169-majority-element](https://github.com/AbhishekGrover1/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
 ## Two Pointers
 |  |
@@ -578,6 +580,7 @@
 | [0284-peeking-iterator](https://github.com/AbhishekGrover1/Leetcode/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/AbhishekGrover1/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Queue
 |  |
 | ------- |
@@ -670,4 +673,16 @@
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/AbhishekGrover1/Leetcode/tree/master/0284-peeking-iterator) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
