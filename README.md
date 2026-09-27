@@ -240,6 +240,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhishekGrover1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/AbhishekGrover1/Leetcode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/AbhishekGrover1/Leetcode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/AbhishekGrover1/Leetcode/tree/master/0343-integer-break) |
 | [0464-can-i-win](https://github.com/AbhishekGrover1/Leetcode/tree/master/0464-can-i-win) |
 ## Math
 |  |
@@ -273,6 +274,7 @@
 | [0326-power-of-three](https://github.com/AbhishekGrover1/Leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/AbhishekGrover1/Leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/AbhishekGrover1/Leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/AbhishekGrover1/Leetcode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/AbhishekGrover1/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/AbhishekGrover1/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/AbhishekGrover1/Leetcode/tree/master/0412-fizz-buzz) |
