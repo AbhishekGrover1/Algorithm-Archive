@@ -1,5 +1,5 @@
 <!---LeetCode Topics Start-->
-# *LEETCODE TOPICS*
+# LeetCode Topics
 ## *Array* 
 |  |
 | ------- |
@@ -682,4 +682,20 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/AbhishekGrover1/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Hash Table
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/AbhishekGrover1/Leetcode/tree/master/0355-design-twitter) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/AbhishekGrover1/Leetcode/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/AbhishekGrover1/Leetcode/tree/master/0355-design-twitter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/AbhishekGrover1/Leetcode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
