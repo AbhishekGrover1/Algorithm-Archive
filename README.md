@@ -711,4 +711,12 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/AbhishekGrover1/Leetcode/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AbhishekGrover1/Leetcode/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AbhishekGrover1/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
