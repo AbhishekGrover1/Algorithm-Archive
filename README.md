@@ -686,6 +686,7 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/AbhishekGrover1/Leetcode/tree/master/0355-design-twitter) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0389-find-the-difference](https://github.com/AbhishekGrover1/Leetcode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
@@ -695,6 +696,7 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/AbhishekGrover1/Leetcode/tree/master/0355-design-twitter) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -715,8 +717,17 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/AbhishekGrover1/Leetcode/tree/master/0319-bulb-switcher) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/AbhishekGrover1/Leetcode/tree/master/0319-bulb-switcher) |
+## Array
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
