@@ -730,4 +730,8 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/AbhishekGrover1/Leetcode/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
