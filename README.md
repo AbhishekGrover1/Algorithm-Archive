@@ -688,6 +688,7 @@
 | [0355-design-twitter](https://github.com/AbhishekGrover1/Leetcode/tree/master/0355-design-twitter) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0389-find-the-difference](https://github.com/AbhishekGrover1/Leetcode/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0391-perfect-rectangle) |
 ## Linked List
 |  |
 | ------- |
@@ -718,6 +719,7 @@
 | ------- |
 | [0319-bulb-switcher](https://github.com/AbhishekGrover1/Leetcode/tree/master/0319-bulb-switcher) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0391-perfect-rectangle) |
 ## Brainteaser
 |  |
 | ------- |
@@ -726,6 +728,7 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0391-perfect-rectangle) |
 ## Randomized
 |  |
 | ------- |
@@ -734,4 +737,12 @@
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/AbhishekGrover1/Leetcode/tree/master/0607-sales-person) |
+## Geometry
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0391-perfect-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
