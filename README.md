@@ -705,6 +705,7 @@
 ## String
 |  |
 | ------- |
+| [0388-longest-absolute-file-path](https://github.com/AbhishekGrover1/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/AbhishekGrover1/Leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -745,4 +746,12 @@
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0391-perfect-rectangle) |
+## Stack
+|  |
+| ------- |
+| [0388-longest-absolute-file-path](https://github.com/AbhishekGrover1/Leetcode/tree/master/0388-longest-absolute-file-path) |
+## Depth-First Search
+|  |
+| ------- |
+| [0388-longest-absolute-file-path](https://github.com/AbhishekGrover1/Leetcode/tree/master/0388-longest-absolute-file-path) |
 <!---LeetCode Topics End-->
