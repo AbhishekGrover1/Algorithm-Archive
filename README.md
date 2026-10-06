@@ -730,6 +730,7 @@
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
 ## Randomized
 |  |
 | ------- |
@@ -754,4 +755,20 @@
 |  |
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/AbhishekGrover1/Leetcode/tree/master/0388-longest-absolute-file-path) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
