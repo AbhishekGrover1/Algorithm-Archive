@@ -728,6 +728,7 @@
 ## Array
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
@@ -758,6 +759,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
@@ -771,4 +773,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
+## Greedy
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
