@@ -689,6 +689,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0389-find-the-difference](https://github.com/AbhishekGrover1/Leetcode/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AbhishekGrover1/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -707,6 +708,7 @@
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/AbhishekGrover1/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/AbhishekGrover1/Leetcode/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AbhishekGrover1/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -777,4 +779,12 @@
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0376-wiggle-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AbhishekGrover1/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AbhishekGrover1/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
