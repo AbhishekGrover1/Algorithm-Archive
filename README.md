@@ -708,6 +708,7 @@
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/AbhishekGrover1/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/AbhishekGrover1/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AbhishekGrover1/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Bit Manipulation
 |  |
@@ -762,6 +763,7 @@
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0392-is-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
@@ -787,4 +789,8 @@
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AbhishekGrover1/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
