@@ -715,6 +715,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/AbhishekGrover1/Leetcode/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/AbhishekGrover1/Leetcode/tree/master/0393-utf-8-validation) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
@@ -737,6 +738,7 @@
 | [0376-wiggle-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/AbhishekGrover1/Leetcode/tree/master/0393-utf-8-validation) |
 | [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
 ## Randomized
 |  |
