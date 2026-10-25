@@ -1,5 +1,5 @@
 <!---LeetCode Topics Start-->
-# *LeetCode Topics*
+# LeetCode Topics
 ## *Array* 
 |  |
 | ------- |
@@ -717,6 +717,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/AbhishekGrover1/Leetcode/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/AbhishekGrover1/Leetcode/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/AbhishekGrover1/Leetcode/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
@@ -772,6 +773,7 @@
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/AbhishekGrover1/Leetcode/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
@@ -789,6 +791,7 @@
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/AbhishekGrover1/Leetcode/tree/master/0397-integer-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -806,4 +809,8 @@
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/AbhishekGrover1/Leetcode/tree/master/0457-circular-array-loop) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/AbhishekGrover1/Leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
