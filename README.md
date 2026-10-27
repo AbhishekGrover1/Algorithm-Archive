@@ -712,6 +712,7 @@
 | [0392-is-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AbhishekGrover1/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0466-count-the-repetitions](https://github.com/AbhishekGrover1/Leetcode/tree/master/0466-count-the-repetitions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -774,6 +775,7 @@
 | [0376-wiggle-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/AbhishekGrover1/Leetcode/tree/master/0397-integer-replacement) |
+| [0466-count-the-repetitions](https://github.com/AbhishekGrover1/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
@@ -805,6 +807,7 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/AbhishekGrover1/Leetcode/tree/master/0392-is-subsequence) |
 | [0457-circular-array-loop](https://github.com/AbhishekGrover1/Leetcode/tree/master/0457-circular-array-loop) |
+| [0466-count-the-repetitions](https://github.com/AbhishekGrover1/Leetcode/tree/master/0466-count-the-repetitions) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
