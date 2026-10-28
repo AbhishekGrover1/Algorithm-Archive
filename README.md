@@ -744,6 +744,7 @@
 | [0393-utf-8-validation](https://github.com/AbhishekGrover1/Leetcode/tree/master/0393-utf-8-validation) |
 | [0457-circular-array-loop](https://github.com/AbhishekGrover1/Leetcode/tree/master/0457-circular-array-loop) |
 | [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/AbhishekGrover1/Leetcode/tree/master/0498-diagonal-traverse) |
 ## Randomized
 |  |
 | ------- |
@@ -816,4 +817,12 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/AbhishekGrover1/Leetcode/tree/master/0397-integer-replacement) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/AbhishekGrover1/Leetcode/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/AbhishekGrover1/Leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
