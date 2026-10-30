@@ -724,6 +724,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/AbhishekGrover1/Leetcode/tree/master/0389-find-the-difference) |
+| [0436-find-right-interval](https://github.com/AbhishekGrover1/Leetcode/tree/master/0436-find-right-interval) |
 ## Math
 |  |
 | ------- |
@@ -742,6 +743,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/AbhishekGrover1/Leetcode/tree/master/0393-utf-8-validation) |
+| [0436-find-right-interval](https://github.com/AbhishekGrover1/Leetcode/tree/master/0436-find-right-interval) |
 | [0457-circular-array-loop](https://github.com/AbhishekGrover1/Leetcode/tree/master/0457-circular-array-loop) |
 | [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/AbhishekGrover1/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -825,4 +827,8 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/AbhishekGrover1/Leetcode/tree/master/0498-diagonal-traverse) |
+## Binary Search
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/AbhishekGrover1/Leetcode/tree/master/0436-find-right-interval) |
 <!---LeetCode Topics End-->
