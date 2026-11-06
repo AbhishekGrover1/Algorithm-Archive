@@ -748,6 +748,7 @@
 | [0457-circular-array-loop](https://github.com/AbhishekGrover1/Leetcode/tree/master/0457-circular-array-loop) |
 | [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/AbhishekGrover1/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Randomized
 |  |
 | ------- |
@@ -771,6 +772,7 @@
 |  |
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/AbhishekGrover1/Leetcode/tree/master/0388-longest-absolute-file-path) |
+| [0503-next-greater-element-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -834,4 +836,8 @@
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/AbhishekGrover1/Leetcode/tree/master/0436-find-right-interval) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
