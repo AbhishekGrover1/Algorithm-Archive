@@ -1,5 +1,5 @@
 <!---LeetCode Topics Start-->
-# LeetCode Topics 
+# LeetCode Topics
 ## *Array* 
 |  |
 | ------- |
@@ -732,6 +732,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AbhishekGrover1/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0492-construct-the-rectangle](https://github.com/AbhishekGrover1/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0593-valid-square](https://github.com/AbhishekGrover1/Leetcode/tree/master/0593-valid-square) |
 ## Brainteaser
 |  |
