@@ -720,6 +720,7 @@
 | [0393-utf-8-validation](https://github.com/AbhishekGrover1/Leetcode/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/AbhishekGrover1/Leetcode/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AbhishekGrover1/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/AbhishekGrover1/Leetcode/tree/master/0461-hamming-distance) |
 ## Sorting
 |  |
 | ------- |
