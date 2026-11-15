@@ -751,6 +751,7 @@
 | [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/AbhishekGrover1/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0542-01-matrix) |
 ## Randomized
 |  |
 | ------- |
@@ -787,6 +788,7 @@
 | [0397-integer-replacement](https://github.com/AbhishekGrover1/Leetcode/tree/master/0397-integer-replacement) |
 | [0466-count-the-repetitions](https://github.com/AbhishekGrover1/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0494-target-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -830,6 +832,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/AbhishekGrover1/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -842,4 +845,8 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
