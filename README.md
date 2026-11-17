@@ -759,6 +759,7 @@
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/AbhishekGrover1/Leetcode/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/AbhishekGrover1/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/AbhishekGrover1/Leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/AbhishekGrover1/Leetcode/tree/master/0607-sales-person) |
